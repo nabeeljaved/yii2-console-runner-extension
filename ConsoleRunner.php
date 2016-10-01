@@ -1,6 +1,6 @@
 <?php
 
-namespace vova07\console;
+namespace nabeeljaved\console;
 
 use Yii;
 use yii\base\Component;
